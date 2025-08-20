@@ -20,6 +20,7 @@ I'm a second-year Electrical Engineering student at K.N. Toosi University of Tec
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-333333?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-333333?style=flat&logo=streamlit&logoColor=FF4B4B)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
