@@ -4,7 +4,7 @@
 ---
 
 🔌 **About Me:**  
-I'm a second-year Electrical Engineering student at K.N. Toosi University of Technology, passionate about programming, automation, and smart technologies. My goal is to build impactful tech solutions and eventually pursue opportunities in Canada.
+I'm an Electrical Engineering student at K.N. Toosi University of Technology, passionate about programming, automation, and smart technologies. My goal is to build impactful tech solutions and eventually pursue opportunities in Canada.
 
 ---
 
